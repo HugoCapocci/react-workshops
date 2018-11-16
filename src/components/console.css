@@ -1,0 +1,21 @@
+.console-header {
+  padding: 5px;
+  background-color: lightgray;
+
+}
+.console-header > span {
+  margin-right: 5px;
+}
+
+.console-header > input {
+  background-color: brown;
+  color: white;
+  border-radius: 5px;
+  border: 0;
+}
+
+.console-body {
+  border: 1px solid black;
+  height: 200px;
+  overflow-y: auto;
+}
